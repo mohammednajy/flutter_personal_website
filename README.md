@@ -4,7 +4,12 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is Web Flutter application for my portfolio 
+
+
+![website_home](https://user-images.githubusercontent.com/66953724/223425391-e106d311-3e40-45b5-833f-4798e3c16bc8.PNG)
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
